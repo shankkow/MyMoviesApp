@@ -1,4 +1,4 @@
-package com.example.moviesapp.data.utils
+package com.example.moviesapp.utils
 
 sealed class Resource<T>(
     val data: T? = null,
