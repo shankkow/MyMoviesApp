@@ -1,4 +1,5 @@
 package com.example.moviesapp.data.utils
 
-class Constants {
+object Constants {
+    const val API_KEY = "your_api_key_here"
 }
