@@ -56,6 +56,12 @@ This app is built using the latest technologies and best practices:
 - **Clean Code**: Following best practices to keep the codebase readable, maintainable, and scalable.
 
 ---
+![MoviesAppImage1](https://github.com/user-attachments/assets/8907e078-8a81-42b1-911c-9014e7ea87a7)
+![MoviesAppImage2](https://github.com/user-attachments/assets/f6556604-df6f-4c0f-a540-eb24d10f25e3)
+![MoviesAppImage3](https://github.com/user-attachments/assets/59289ca8-e460-480c-886c-f728a707bdc8)
+
+
+---
 
 ## **Folder Structure**
 ```plaintext
@@ -74,3 +80,8 @@ app/
 ├── utils/                       # Utility classes and constants
 ├── MainActivity.kt              # Entry point of the app
 ├── App.kt                       # Application class
+
+
+
+
+
